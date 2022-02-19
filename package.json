@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test:local": "jest --config jest-local.config.js",
-    "test:dev": "jest --config jest-dev.config.js",
-    "test": "jest --config jest-local.config.js"
+    "test:dev": "jest --config jest-dev.config.js"
   },
   "repository": {
     "type": "git",
