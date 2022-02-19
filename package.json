@@ -6,7 +6,7 @@
   "scripts": {
     "test:local": "jest --config jest-local.config.js",
     "test:dev": "jest --config jest-dev.config.js",
-    "test:ci": "jest --runInBand --maxWorkers=8 --config jest-dev-ci.config.js",
+    "test:ci": "jest --maxWorkers=8 --config jest-dev.config.js",
     "test": "jest --config jest-local.config.js"
   },
   "repository": {
