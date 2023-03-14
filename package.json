@@ -20,7 +20,7 @@
   "homepage": "https://github.com/luke-h1/puppeteer-test-template#readme",
   "dependencies": {
     "assert": "^2.0.0",
-    "dotenv": "16.0.0",
+    "dotenv": "16.0.3",
     "puppeteer": "^13.3.2"
   },
   "devDependencies": {
