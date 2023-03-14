@@ -21,7 +21,7 @@
   "dependencies": {
     "assert": "^2.0.0",
     "dotenv": "16.0.0",
-    "puppeteer": "^13.3.2"
+    "puppeteer": "^13.7.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.16.11",
